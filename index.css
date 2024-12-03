@@ -1,0 +1,15 @@
+  body{
+	background-color:purple;
+    }
+
+    p{
+	color:blue;
+	text-align:center;
+     }
+.one{
+        color:red;
+        text-align:left;
+     }
+     li{
+	text-align:center;
+       }
